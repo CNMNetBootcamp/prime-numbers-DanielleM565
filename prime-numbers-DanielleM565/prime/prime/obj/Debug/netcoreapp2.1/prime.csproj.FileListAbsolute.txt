@@ -1,0 +1,11 @@
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.AssemblyInfoInputs.cache
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.AssemblyInfo.cs
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\bin\Debug\netcoreapp2.1\prime.deps.json
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\bin\Debug\netcoreapp2.1\prime.runtimeconfig.json
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\bin\Debug\netcoreapp2.1\prime.runtimeconfig.dev.json
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\bin\Debug\netcoreapp2.1\prime.dll
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\bin\Debug\netcoreapp2.1\prime.pdb
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.dll
+C:\Users\Owner\Source\Repos\prime-numbers-DanielleM565\prime\prime\obj\Debug\netcoreapp2.1\prime.pdb
